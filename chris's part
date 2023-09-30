@@ -1,5 +1,6 @@
-#inlude <stdio.h>
+#include <stdio.h>
 main()
 {
 printf("hello world");
+printf("how are you");
 }
